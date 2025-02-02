@@ -1,7 +1,8 @@
 # Streamlit app 
 ![Screenshot 2025-02-02 150423](https://github.com/user-attachments/assets/90f83e62-47de-486f-9545-24b0482484c4)
 
-![Screenshot 2025-02-02 150503](https://github.com/user-attachments/assets/10925dff-e7f8-4133-b642-2cc7f515a348)
+![Screenshot 2025-02-02 150503](https://github.com/user-attachments/assets/a8337610-d923-4a35-8b45-1c4157eb957e)
+
 
 
 # Customer Satisfaction (CSAT) Prediction using Deep Learning
